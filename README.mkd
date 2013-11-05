@@ -1,0 +1,1 @@
+Aplicação exemplo utilizada no Hands-on da palestra **Desenvolvimento Web Agil com Ruby on Rails**
